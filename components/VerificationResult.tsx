@@ -72,7 +72,7 @@ export const VerificationResult: React.FC = () => {
           <div className="flex-grow w-full">
             <div className="flex items-center justify-between border-b-2 border-gray-100 pb-3 mb-6">
                 <h2 className="text-2xl font-bold text-[#000080]">
-                  Demographic Information
+                  Aadhaar Information
                 </h2>
                 <span className="bg-blue-50 text-[#000080] text-xs font-bold px-3 py-1 rounded-full border border-blue-100">
                     SECURE RECORD
