@@ -1,0 +1,5 @@
+{
+  "name": "Aadhaar Verification Portal",
+  "description": "A simulated government portal displaying verified Aadhaar card details with specific image placeholders.",
+  "requestFramePermissions": []
+}
