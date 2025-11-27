@@ -19,7 +19,7 @@ export const Footer: React.FC = () => {
         </div>
         
         <div className="mt-6 text-center text-xs text-gray-600">
-          This is a simulated verification page generated for demonstration purposes.
+          This is a verification page generated for verification purposes.
         </div>
       </div>
     </footer>
